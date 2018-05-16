@@ -1,0 +1,2 @@
+[BIGIP]
+bigip1 ansible_host=172.28.28.152
